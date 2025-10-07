@@ -64,9 +64,11 @@ export default function BlogPost() {
             </span>
           </div>
 
-          <div className="h-96 bg-gradient-to-br from-primary/20 to-accent/20 rounded-2xl mb-12 flex items-center justify-center">
-            <span className="text-8xl font-bold text-primary/20">{post.id}</span>
-          </div>
+          <img 
+            src={post.image} 
+            alt={post.title}
+            className="w-full h-96 object-cover rounded-2xl mb-12 shadow-2xl"
+          />
 
           <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
             <p className="text-xl text-muted-foreground leading-relaxed mb-6">

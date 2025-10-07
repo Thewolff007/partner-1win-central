@@ -6,6 +6,10 @@ import { Button } from '@/components/ui/button';
 import heroImage from '@/assets/hero-main.jpg';
 import featuresImage from '@/assets/features-stats.jpg';
 import gamesImage from '@/assets/games-collection.jpg';
+import gameSlotsImage from '@/assets/game-slots.jpg';
+import sportsLiveImage from '@/assets/sports-live.jpg';
+import aviatorGameImage from '@/assets/aviator-game.jpg';
+import teenPattiImage from '@/assets/teen-patti.jpg';
 
 const JOIN_LINK = 'https://lkxw.cc/a0b0';
 
@@ -14,6 +18,25 @@ export default function Gallery() {
     { src: heroImage, title: 'Casino Games Collection', desc: 'Premium mobile gaming experience' },
     { src: featuresImage, title: 'Real-Time Analytics', desc: 'Track your performance' },
     { src: gamesImage, title: 'Game Variety', desc: 'Over 5000+ games available' },
+    { src: gameSlotsImage, title: 'Egyptian Slots Collection', desc: 'Exciting themed slot machines' },
+    { src: sportsLiveImage, title: 'Live Cricket Stadium', desc: 'Real-time sports betting action' },
+    { src: aviatorGameImage, title: 'Aviator Game Interface', desc: 'Popular crash game experience' },
+    { src: teenPattiImage, title: 'Teen Patti Live Game', desc: 'Traditional Indian card game' },
+  ];
+
+  const gameScreenshots = [
+    '/images/blog/casino-games.jpg',
+    '/images/blog/post-1.jpg',
+    '/images/blog/post-2.jpg',
+    '/images/blog/post-3.jpg',
+    '/images/blog/post-4.jpg',
+    '/images/blog/post-7.jpg',
+    '/images/blog/post-8.jpg',
+    '/images/blog/post-9.jpg',
+    '/images/blog/post-10.jpg',
+    '/images/blog/post-11.jpg',
+    '/images/blog/post-12.jpg',
+    '/images/blog/post-17.jpg',
   ];
 
   return (
@@ -57,9 +80,13 @@ export default function Gallery() {
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-16">
-            {Array.from({ length: 12 }).map((_, i) => (
-              <Card key={i} className="aspect-square bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
-                <span className="text-muted-foreground">Game Screenshot {i + 1}</span>
+            {gameScreenshots.map((screenshot, i) => (
+              <Card key={i} className="overflow-hidden group cursor-pointer hover:shadow-xl transition-all">
+                <img 
+                  src={screenshot} 
+                  alt={`Game Screenshot ${i + 1}`}
+                  className="w-full aspect-square object-cover group-hover:scale-110 transition-transform duration-300"
+                />
               </Card>
             ))}
           </div>
