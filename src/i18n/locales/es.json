@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "features": "Características",
+    "products": "Productos",
+    "faq": "Preguntas",
+    "gallery": "Galería",
+    "contacts": "Contactos",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Comienza a Ganar con la Plataforma Líder",
+    "subtitle": "de Apuestas y Juegos",
+    "cta": "Únete y Reclama Bono",
+    "affiliate": "Hazte Afiliado",
+    "promo": "Código Promocional",
+    "users": "Millones de Usuarios",
+    "affiliates": "Afiliados Activos",
+    "payout": "Pagos Diarios"
+  },
+  "features": {
+    "title": "Por Qué Elegir 1win Partners",
+    "realtime": "Estadísticas en Tiempo Real",
+    "realtimeDesc": "Rastrea tus ganancias y conversiones en tiempo real",
+    "highConv": "Altas Tasas de Conversión",
+    "highConvDesc": "Tasas de conversión líderes en la industria",
+    "payments": "Pagos Rápidos",
+    "paymentsDesc": "Pagos semanales con múltiples métodos",
+    "support": "Soporte 24/7",
+    "supportDesc": "Equipo de soporte dedicado disponible siempre",
+    "marketing": "Herramientas de Marketing",
+    "marketingDesc": "Acceso a banners profesionales y materiales promocionales",
+    "global": "Alcance Global",
+    "globalDesc": "Disponible en más de 100 países"
+  },
+  "products": {
+    "title": "Nuestros Productos",
+    "subtitle": "Más de 5000+ Juegos",
+    "casino": "Juegos de Casino",
+    "casinoDesc": "Tragamonedas, juegos de mesa y casino en vivo",
+    "sports": "Apuestas Deportivas",
+    "sportsDesc": "Apuestas en vivo y pre-partido en 40+ deportes",
+    "aviator": "Juego Aviator",
+    "aviatorDesc": "Juego exclusivo con multiplicadores hasta 100x",
+    "poker": "Póker y Juegos de Cartas",
+    "pokerDesc": "Texas Hold'em, Teen Patti y otros juegos populares",
+    "viewAll": "Ver Todos los 5000+ Juegos"
+  },
+  "cta": {
+    "ready": "¿Listo para Comenzar a Ganar?",
+    "join": "Únete a miles de afiliados exitosos",
+    "button": "Únete Ahora"
+  },
+  "footer": {
+    "about": "Acerca de 1win Partners",
+    "aboutText": "Programa de afiliados líder en la industria iGaming",
+    "links": "Enlaces Rápidos",
+    "contact": "Contáctanos",
+    "rights": "Todos los derechos reservados",
+    "responsible": "18+ Juega responsablemente"
+  }
+}

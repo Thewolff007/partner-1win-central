@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "features": "Features",
+    "products": "Products",
+    "faq": "FAQ",
+    "gallery": "Gallery",
+    "contacts": "Contacts",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Start Earning with Leading",
+    "subtitle": "Gambling & Betting Platform",
+    "cta": "Join Now & Claim Bonus",
+    "affiliate": "Become an Affiliate",
+    "promo": "Promo Code",
+    "users": "Million Users",
+    "affiliates": "Active Affiliates",
+    "payout": "Daily Payouts"
+  },
+  "features": {
+    "title": "Why Choose 1win Partners",
+    "realtime": "Real-Time Statistics",
+    "realtimeDesc": "Track your earnings and conversions in real-time with our advanced analytics dashboard",
+    "highConv": "High Conversion Rates",
+    "highConvDesc": "Industry-leading conversion rates with optimized user experience and localized content",
+    "payments": "Fast Payments",
+    "paymentsDesc": "Weekly payouts with multiple payment methods including crypto, bank transfer, and e-wallets",
+    "support": "24/7 Support",
+    "supportDesc": "Dedicated affiliate managers and support team available round the clock",
+    "marketing": "Marketing Tools",
+    "marketingDesc": "Access professional banners, landing pages, and promotional materials",
+    "global": "Global Reach",
+    "globalDesc": "Available in 100+ countries with localized payment systems and languages"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Over 5000+ Games",
+    "casino": "Casino Games",
+    "casinoDesc": "Slots, table games, and live casino with professional dealers",
+    "sports": "Sports Betting",
+    "sportsDesc": "Pre-match and live betting on 40+ sports with competitive odds",
+    "aviator": "Aviator Game",
+    "aviatorDesc": "Exclusive crash game with multipliers up to 100x",
+    "poker": "Poker & Card Games",
+    "pokerDesc": "Texas Hold'em, Teen Patti, and other popular card games",
+    "viewAll": "View All 5000+ Games"
+  },
+  "cta": {
+    "ready": "Ready to Start Earning?",
+    "join": "Join thousands of successful affiliates",
+    "button": "Join Now"
+  },
+  "footer": {
+    "about": "About 1win Partners",
+    "aboutText": "Leading affiliate program in the iGaming industry with competitive commissions",
+    "links": "Quick Links",
+    "contact": "Contact Us",
+    "rights": "All rights reserved",
+    "responsible": "18+ Gambling responsibly"
+  }
+}
